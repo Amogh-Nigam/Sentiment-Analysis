@@ -1,0 +1,13 @@
+contractions==0.1.72
+emoji==2.0.0
+matplotlib==3.5.2
+nltk==3.7
+numpy==1.22.3
+pandas==1.4.3
+scikit_learn==1.1.2
+scipy==1.8.1
+seaborn==0.11.2
+setuptools==57.4.0
+symspellpy==6.7.6
+wordcloud==1.8.2.2
+xgboost==1.6.2
